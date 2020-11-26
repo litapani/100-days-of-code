@@ -36,3 +36,12 @@ Making a switch to IT industry . Facing resistance while learning to code daily.
 
 #100daysofcodechallenge  
 @LearnEnough
+
+
+Today's progress :
+working on course-3 : Learn enough Git to be Dangerous . completed chapter 2 and 3.
+
+Thoughts:
+I can feel that my momentum is building up. This accountability challenge is good for me. 
+#100daysofcodechallenge  
+@LearnEnough
