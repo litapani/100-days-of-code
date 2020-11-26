@@ -30,4 +30,9 @@
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
 
 ------------------------------------------
+Day 1: Nov 26, Thursday
 
+Making a switch to IT industry . Facing resistance while learning to code daily. Presently following course Learn Enough by Michael Hartl. Accepting 100 days of code for accountability. 
+
+#100daysofcodechallenge  
+@LearnEnough
