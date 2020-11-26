@@ -45,3 +45,11 @@ Thoughts:
 I can feel that my momentum is building up. This accountability challenge is good for me. 
 #100daysofcodechallenge  
 @LearnEnough
+
+
+Day 2: Nov 27, Friday:
+Today's Progress:  Completed ch. 4 and so in turn completed  course-3 Learn Enough Git to Be Dangerous.
+
+Thoughts: just used Git pages to see my  html file  on google . felt so good. 
+#100DaysOfCode   
+@LearnEnough
